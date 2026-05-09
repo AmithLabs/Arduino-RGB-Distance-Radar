@@ -72,7 +72,7 @@ The full build process is available on the **AmithLabs YouTube channel**.
 | All GND Connections | GND              |
 ---
 
-Schematic Diagram.jpg
+##Schematic Diagram
 
 ![Schematic Diagram](Schematic%20Diagram.jpg)
 ---
