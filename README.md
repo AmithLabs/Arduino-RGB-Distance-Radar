@@ -71,6 +71,7 @@ The full build process is available on the **AmithLabs YouTube channel**.
 | WS2812B 5V          | External 5V      |
 | All GND Connections | GND              |
 
+Schematic Diagram.jpg
 ---
 
 ## System Operation
