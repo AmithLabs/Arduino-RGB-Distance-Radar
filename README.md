@@ -1,9 +1,9 @@
 # Arduino RGB Distance Radar
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_LINK)
+[![Watch the video](https://img.youtube.com/vi/76Vnd3k24_4/0.jpg)](https://youtu.be/76Vnd3k24_4)
 
 📺 **Watch the Full Build Video on YouTube**
-https://youtu.be/YOUR_VIDEO_LINK
+https://youtu.be/76Vnd3k24_4
 
 ---
 
